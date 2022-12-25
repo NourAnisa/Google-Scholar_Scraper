@@ -25,4 +25,5 @@ step:
    ```
 2. Run file main.py
 3. isi perintah sesuai keinginan
+
 ![image](https://user-images.githubusercontent.com/48305341/209478762-148ab954-f416-49c8-96b7-da7dbf3c5585.png)
