@@ -1,6 +1,6 @@
 Download/Clone
    ```sh
-   git clone https://github.com/NourAnisa/IEEE-Library_Scraper.git
+   git clone https://github.com/NourAnisa/Google-Scholar_Scraper.git
    ```
 
 # Google Scholar with Google colab
@@ -18,3 +18,8 @@ step:
 4. kemudian run all
 
 # Google Scholar with Selenium
+
+1. Install pip packages
+   ```bash
+   pip install -r requirements.txt
+   ```
